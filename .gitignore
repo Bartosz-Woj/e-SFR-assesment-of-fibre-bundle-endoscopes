@@ -1,0 +1,13 @@
+
+# Ignore image files
+*.jpg
+*.png 
+
+
+# VScode settings
+
+.vscode/
+
+# python cache files
+__pycache__/
+
